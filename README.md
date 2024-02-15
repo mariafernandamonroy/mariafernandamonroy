@@ -1,4 +1,4 @@
-![Banner](https://github.com/avilanac/avilanac/blob/main/img/sky.png)
+![Banner](https://github.com/mariafernandamonroy/mariafernandamonroy/blob/main/banner)
 
 <h1 align="center">Hi 👋, I'm María Fernanda Monroy</h1>
 <h3 align="center">A passionate frontend developer from Colombia</h3>
